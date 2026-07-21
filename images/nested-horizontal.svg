@@ -1,0 +1,79 @@
+<svg viewBox="0 0 680 400" xmlns="http://www.w3.org/2000/svg" font-family="'Source Sans Pro',Arial,sans-serif">
+  <rect width="680" height="400" fill="#fafafa" rx="4"/>
+  <!-- title -->
+  <text x="20" y="28" font-size="16" font-weight="600" fill="#0b0b0b">Airports — Nested / Inset (Horizontal)</text>
+  <!-- axes -->
+  <line x1="140" y1="50" x2="140" y2="340" stroke="#c3c2b7" stroke-width="1"/>
+  <line x1="140" y1="340" x2="580" y2="340" stroke="#c3c2b7" stroke-width="1"/>
+  <!-- grid -->
+  <line x1="250" y1="50" x2="250" y2="340" stroke="#e1e0d9" stroke-width="0.5"/>
+  <line x1="360" y1="50" x2="360" y2="340" stroke="#e1e0d9" stroke-width="0.5"/>
+  <line x1="470" y1="50" x2="470" y2="340" stroke="#e1e0d9" stroke-width="0.5"/>
+  <text x="248" y="355" font-size="9" fill="#898781" text-anchor="middle">200M</text>
+  <text x="358" y="355" font-size="9" fill="#898781" text-anchor="middle">400M</text>
+  <text x="468" y="355" font-size="9" fill="#898781" text-anchor="middle">600M</text>
+  <!-- label col separator -->
+  <line x1="580" y1="50" x2="580" y2="340" stroke="#e1e0d9" stroke-width="0.5" stroke-dasharray="2,3"/>
+
+  <!-- ROW 1: Dubai -->
+  <text x="135" y="92" font-size="10" fill="#595959" text-anchor="end">Dubai Int...</text>
+  <rect x="140" y="60" width="432" height="52" rx="2" fill="#c8c7c0" stroke="#888780" stroke-width="0.8"/>
+  <rect x="140" y="62" width="411" height="13" fill="#66aadd" opacity="0.9"/>
+  <rect x="140" y="77" width="2"   height="11" fill="#cc6677" opacity="0.9"/>
+  <rect x="140" y="90" width="14"  height="13" fill="#882255" opacity="0.9"/>
+  <!-- label col dubai -->
+  <rect x="583" y="63" width="6" height="9" rx="1" fill="#888780"/>
+  <text x="592" y="71" font-size="9" font-weight="600" fill="#0b0b0b">804.8M</text>
+  <line x1="551" y1="70" x2="580" y2="70" stroke="#66aadd" stroke-width="1.2"/>
+  <rect x="583" y="74" width="6" height="9" rx="1" fill="#66aadd" opacity="0.9"/>
+  <text x="592" y="82" font-size="9" fill="#0b0b0b">796.3M</text>
+  <line x1="142" y1="88" x2="580" y2="88" stroke="#cc6677" stroke-width="0.7" stroke-dasharray="4,2" opacity="0.7"/>
+  <rect x="583" y="85" width="6" height="9" rx="1" fill="#cc6677" opacity="0.9"/>
+  <text x="592" y="93" font-size="9" fill="#0b0b0b">4.0M</text>
+  <line x1="154" y1="99" x2="580" y2="99" stroke="#882255" stroke-width="0.7" stroke-dasharray="4,2" opacity="0.7"/>
+  <rect x="583" y="96" width="6" height="9" rx="1" fill="#882255" opacity="0.9"/>
+  <text x="592" y="104" font-size="9" fill="#0b0b0b">25.2M</text>
+
+  <!-- ROW 2: Abu Dhabi -->
+  <text x="135" y="162" font-size="10" fill="#595959" text-anchor="end">Abu Dhabi...</text>
+  <rect x="140" y="130" width="118" height="48" rx="2" fill="#c8c7c0" stroke="#888780" stroke-width="0.8"/>
+  <rect x="140" y="132" width="115" height="12" fill="#66aadd" opacity="0.9"/>
+  <rect x="140" y="146" width="1"   height="10" fill="#cc6677" opacity="0.9"/>
+  <rect x="140" y="158" width="2"   height="10" fill="#882255" opacity="0.9"/>
+  <rect x="583" y="133" width="6" height="9" rx="1" fill="#888780"/>
+  <text x="592" y="141" font-size="9" font-weight="600" fill="#0b0b0b">219.7M</text>
+  <line x1="258" y1="141" x2="580" y2="141" stroke="#66aadd" stroke-width="0.7" stroke-dasharray="4,2" opacity="0.65"/>
+  <rect x="583" y="144" width="6" height="9" rx="1" fill="#66aadd" opacity="0.9"/>
+  <text x="592" y="152" font-size="9" fill="#0b0b0b">213.6M</text>
+  <line x1="141" y1="156" x2="580" y2="156" stroke="#cc6677" stroke-width="0.7" stroke-dasharray="4,2" opacity="0.6"/>
+  <rect x="583" y="155" width="6" height="9" rx="1" fill="#cc6677" opacity="0.9"/>
+  <text x="592" y="163" font-size="9" fill="#0b0b0b">1.6M</text>
+  <line x1="142" y1="167" x2="580" y2="167" stroke="#882255" stroke-width="0.7" stroke-dasharray="4,2" opacity="0.6"/>
+  <rect x="583" y="166" width="6" height="9" rx="1" fill="#882255" opacity="0.9"/>
+  <text x="592" y="174" font-size="9" fill="#0b0b0b">4.4M</text>
+
+  <!-- ROW 3: Sharjah -->
+  <text x="135" y="232" font-size="10" fill="#595959" text-anchor="end">Sharjah Int...</text>
+  <rect x="140" y="200" width="62" height="48" rx="2" fill="#c8c7c0" stroke="#888780" stroke-width="0.8"/>
+  <rect x="140" y="202" width="60" height="12" fill="#66aadd" opacity="0.9"/>
+  <rect x="140" y="226" width="1" height="10" fill="#882255" opacity="0.9"/>
+  <rect x="583" y="203" width="6" height="9" rx="1" fill="#888780"/>
+  <text x="592" y="211" font-size="9" font-weight="600" fill="#0b0b0b">126.8M</text>
+  <line x1="200" y1="211" x2="580" y2="211" stroke="#66aadd" stroke-width="0.7" stroke-dasharray="4,2" opacity="0.6"/>
+  <rect x="583" y="214" width="6" height="9" rx="1" fill="#66aadd" opacity="0.9"/>
+  <text x="592" y="222" font-size="9" fill="#0b0b0b">124.5M</text>
+  <rect x="583" y="225" width="6" height="9" rx="1" fill="#cc6677" opacity="0.9"/>
+  <text x="592" y="233" font-size="9" fill="#0b0b0b">878.1K</text>
+  <rect x="583" y="236" width="6" height="9" rx="1" fill="#882255" opacity="0.9"/>
+  <text x="592" y="244" font-size="9" fill="#0b0b0b">1.4M</text>
+
+  <!-- Legend -->
+  <rect x="140" y="370" width="10" height="10" rx="1" fill="#888780"/>
+  <text x="154" y="379" font-size="10" fill="#595959">Consolidated</text>
+  <rect x="250" y="370" width="10" height="10" rx="1" fill="#66aadd" opacity="0.9"/>
+  <text x="264" y="379" font-size="10" fill="#595959">Passengers</text>
+  <rect x="352" y="370" width="10" height="10" rx="1" fill="#cc6677" opacity="0.9"/>
+  <text x="366" y="379" font-size="10" fill="#595959">Flights</text>
+  <rect x="420" y="370" width="10" height="10" rx="1" fill="#882255" opacity="0.9"/>
+  <text x="434" y="379" font-size="10" fill="#595959">Cargo</text>
+</svg>

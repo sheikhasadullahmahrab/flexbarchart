@@ -1,0 +1,13 @@
+{
+  "name": "FlexBarChart",
+  "description": "v2.5 — Grouped, Stacked and Nested/Inset bar chart for Qlik Sense. Flat property panel matching Qlik native patterns. Reliable color controls (dropdown + hex inputs). Auto-responsive sizing, fixed-top swatch labels, coloured connectors, gray parent bars, full-row tooltips.",
+  "type": "visualization",
+  "version": "2.5",
+  "author": "",
+  "homepage": "",
+  "keywords": "qlik-sense, visualization, bar chart, grouped, stacked, nested, flexbarchart",
+  "license": "MIT",
+  "icon": "bar-chart",
+  "preview": "preview.png",
+  "dependencies": { "qlik-sense": ">=3.0.0" }
+}
