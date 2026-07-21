@@ -63,7 +63,7 @@ All modes support both **Horizontal** and **Vertical** bar direction.
 
 ## Installation
 
-1. Download the latest release zip from [Releases](https://github.com/sheikhasadullahmahrab/flexbarchart/releases)
+1. Download **[FlexBarChart_v2.5.zip](https://github.com/sheikhasadullahmahrab/flexbarchart/raw/main/FlexBarChart_v2.5.zip)**
 2. In Qlik Sense QMC or Dev Hub → **Extensions** → **Import**
 3. Upload the zip — FlexBarChart appears in the chart library
 
